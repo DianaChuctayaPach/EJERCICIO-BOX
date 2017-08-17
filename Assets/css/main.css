@@ -1,0 +1,25 @@
+*{
+    /* outline: 2px solid teal; */
+}
+.caja-padre{
+    background: #4A361B;
+    position: relative;
+    width: 1100px;
+    height: 100px;
+    /* padding: 40px; */
+    top: 100px;
+    border: 20px solid purple;
+    
+}
+.box{
+    background-color: #E4D1B8;
+    position: absolute;
+    top: 25px;
+    left: 30px;
+    width: 1000px;
+    padding: 10px;
+    border:#913434 5px dashed;
+    text-align: center;
+    font-size: 20px;
+
+}
